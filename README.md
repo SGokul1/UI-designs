@@ -1,2 +1,2 @@
 # UI-designs
-Sample UI designs for html pages
+This repository contains UI design templetes created using html and css
